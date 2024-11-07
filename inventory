@@ -1,0 +1,12 @@
+[mangodb]
+54.87.156.241
+
+[cart]
+deepak
+
+[mysql]
+7292.2992.9229.929
+
+[db:children]
+mangodb
+mysql
