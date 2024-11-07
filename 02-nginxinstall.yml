@@ -1,0 +1,8 @@
+- name: install nginx
+  hosts: mangodb
+  tasks:
+  - name: install nginx
+    ansible.builtin.yum:
+     name: nginx
+     state: installed
+     
