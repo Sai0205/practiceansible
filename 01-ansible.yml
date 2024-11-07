@@ -1,0 +1,6 @@
+- name: ping the node
+  hosts: mangodb
+  tasks:
+  - name: ping the mangodb server
+    ansible.builtin.ping:
+    
