@@ -1,12 +1,32 @@
-[mangodb]
-172.31.28.142
+[mongodb.deepakreddy.online]
+172.31.47.211
 
-[cart]
-deepak
+[web.deepakreddy.online]
+172.31.83.148
 
-[mysql]
-7292.2992.9229.929
+[catalogue.deepakreddy.online]
+172.31.87.51
 
-[db:children]
-mangodb
-mys
+[user.deepakreddy.online]
+172.31.88.192
+
+[cart.deepakreddy.online]
+172.31.85.127
+
+[mysql.deepakreddy.online]
+172.31.39.15
+
+[redis.deepakreddy.online]
+172.31.90.50
+
+[rabbitmq.deepakreddy.online]
+172.31.92.60
+
+[shipping.deepakreddy.online]
+172.31.95.35
+
+[payment.deepakreddy.online]
+172.31.85.228
+
+[dispatch.deepakreddy.online]
+172.31.85.66
